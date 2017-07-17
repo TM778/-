@@ -1,6 +1,0 @@
-
-mkdir awesome
-cd kadai
-git init
-
-git add maya3.mb
