@@ -3,3 +3,6 @@ $ cd github
 $ mkdir gittest
 $ cd gittest
 $ git init
+$ git add maya3.mb
+$ git remote add origin https://github.com/TM778/kadai-MAYA.git
+$ git push origin master
